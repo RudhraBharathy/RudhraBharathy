@@ -12,9 +12,9 @@
 
 <h3>📊 My GitHub Stats : </h3>
 
-|  Stats      | Langs           | Streak  |
-|:-------------:|:-------------:|:-----:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=rudhrabharathy&theme=react&hide_border=true&include_all_commits=true&count_private=false) | ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=rudhrabharathy&theme=react&hide_border=true) | ![Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=rudhrabharathy&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) |
+|  Stats      | Langs           |
+|:-------------:|:-------------:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=rudhrabharathy&theme=react&hide_border=true&include_all_commits=true&count_private=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudhrabharathy&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact) |
 
 
 
